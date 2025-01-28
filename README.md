@@ -1,7 +1,7 @@
 ![A passionate Web developer from Bangladesh](https://media.licdn.com/dms/image/v2/D5616AQEzUXUHSB0laA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1737883691336?e=1743638400&v=beta&t=VPjqDPWO4fDuzWUhN_5557yWfNF-EqFaKqMzb4T2fyI)
 
 
-### Hi there 👋, I am Chowdhury Mobaraque Hossain
+### Hi 👋, I am Chowdhury Mobaraque Hossain
 #### A passionate Web developer from Bangladesh
 
 
